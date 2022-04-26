@@ -24,4 +24,4 @@
 
 ## Mon linkedin
 
-- ![Lien linkedin](https://www.linkedin.com/in/anthony-ruby-315b3422a/)
+- Rendez-vous sur [Linkedin](https://www.linkedin.com/in/anthony-ruby-315b3422a/) !
