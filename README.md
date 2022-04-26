@@ -1,4 +1,4 @@
-### Bonjour 👋
+# Bonjour 👋
 
 **anthonyr-14051997/anthonyr-14051997** Je suis un ✨ _développeur_ ✨ voici ma page d'intro `README.md`.
 
