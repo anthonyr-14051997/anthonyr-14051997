@@ -1,6 +1,6 @@
 ### Bonjour 👋
 
-**anthonyr-14051997/anthonyr-14051997** Je suis un ✨ _développeur_ ✨ voici ma page d'accueil `README.md`.
+**anthonyr-14051997/anthonyr-14051997** Je suis un ✨ _développeur_ ✨ voici ma page d'intro `Intro.md`.
 
 Here are some ideas to get you started:
 
