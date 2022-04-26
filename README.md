@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 - ![Logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 - ![Logo ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 - ![Logo markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+## Mon linkedin
+
 - ![Lien linkedin](https://www.linkedin.com/in/anthony-ruby-315b3422a/)
