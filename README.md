@@ -4,8 +4,8 @@
 
 ## Voici quelques informations sur moi :
 
-- 🔭 Je travail actuellement sur mon portfolio
-- 🌱 Je suis actuellement en formation chez Online Forma Pro
+- 🔭 Je travail actuellement sur des petits projets en Java
+- 🌱 Je suis actuellement en recherche d'une entreprise pour une alternance dans les alentours de Besançon
 - 👯 Je cherche actuellement un stage dans le développement
 - 😄 Surnom: Antho
 
@@ -21,6 +21,7 @@
 * [x] ![Logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 * [x] ![Logo ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 * [x] ![Logo markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+* [x] ![Logo Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ## Mon linkedin
 
